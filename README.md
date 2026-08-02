@@ -20,6 +20,17 @@ The infrastructure team is currently evaluating opportunities to simplify deploy
 
 Application architecture documentation lives in the Architecture repository.
 
+## Upcoming Work
+
+The Infrastructure Team continues to improve deployment reliability and operational visibility.
+
+### TODO
+
+- [ ] Standardize logging
+- [ ] Reduce deployment pipeline execution time
+- [ ] Consolidate deployment configuration
+- [ ] Improve monitoring dashboards
+
 ---
 
 ## Maintainers
